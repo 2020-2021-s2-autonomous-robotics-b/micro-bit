@@ -4,17 +4,17 @@ This is a repository that...
 
 ## Who
 
-Developed by... (first names only)
+Autonomous Robotics A Block: Connor, Asher, Hannah
 
 ## What
 
-We accomplished... (what does your code do?)
+We accomplished making a small button pressing game.
 
 ## How
 
-We used the micro:bit capabilities... (how does your code work?)
+We used the micro:bit capabilities of an array of 5 by 5 leds and the two A and B buttons. Our code uses a while loop to continously check the values of each button and change a varible score based of of their state. We used custom images that displayed either button A or button B as the current winner.
 
 ## Why
 
-We made the design choices we made because... (why did you do what you did? what did you try first? what did you learn?)
+We made the design choices we made because we were focused on creating a robust program that would not fail. We wanted to make a fun game and desgined our code off of that goal. 
 
