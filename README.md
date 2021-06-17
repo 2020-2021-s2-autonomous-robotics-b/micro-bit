@@ -1,7 +1,7 @@
 # [micro:bit](https://microbit.org/get-started/user-guide/python/) Exploration
 
 
-Thumb War
+# Thumb War
 
 
 ## Who
