@@ -1,6 +1,8 @@
 # [micro:bit](https://microbit.org/get-started/user-guide/python/) Exploration
 
-This is a repository that...
+
+Thumb War
+
 
 ## Who
 
